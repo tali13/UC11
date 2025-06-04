@@ -15,8 +15,8 @@ Liste aqui todas as funcionalidades que serão testadas:
 
 | Funcionalidade               | Descrição                                        |
 |-----------------------------|--------------------------------------------------|
-| Ex: Adicionar tarefa        | Usuário poderá criar uma nova tarefa             |
-| Ex: Editar tarefa           | Usuário poderá alterar o título da tarefa        |
+| Listagem de produtos        | Usuário poderá criar uma nova tarefa             |
+| Visualização de fluxo de entrada e saida de produtps           | Usuário poderá alterar o título da tarefa        |
 | Ex: Interface de usuário    | Verificar a usabilidade e responsividade da UI   |
 
 ### ❌ O que **não** será testado
