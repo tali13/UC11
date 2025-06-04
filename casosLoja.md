@@ -289,7 +289,7 @@ Usuário foi rejeitado ao tentar atualizar a email incorreto
 ---
 
 
-## 🧪 ID: 010
+## 🧪 ID: 009
 
 ### ✅ Caso de teste Listagem de produtos na loja:
 
@@ -318,7 +318,7 @@ O programa exibiu corretamente os produtos do estoque do setor desejado
 - [ ] Reprovado
 
 ---
-## 🧪 ID: 011
+## 🧪 ID: 010
 
 ### ✅ Caso de teste Fluxo de entradas de produtos:
 
@@ -351,7 +351,7 @@ O programa gerou a informação do fluxo da area selecionada
 
 ---
 
-## 🧪 ID: 012
+## 🧪 ID: 011
 
 ### ✅ Caso de teste  Exibição dos produtos mais vendidos :
 
