@@ -122,10 +122,11 @@ Verificar se o produto foi inserido no estoque corretamente.
 
 
 ### 💡 Resultado Esperado:
-O programa deve alertar caso um produto esteja fora do fluxo do estoque correto
+O programa mostrou os produtos do estoque do setor conforme o esperado.
 
 ### 📌 Resultado Obtido:
-O programa mostrou os produtos do estoque do setor conforme o esperado.
+O programa gerou a informação do fluxo da area selecionada
+
 ### ✅ Status do Teste:
 - [x] Aprovado
 - [ ] Reprovado
