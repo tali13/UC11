@@ -106,13 +106,6 @@ Descreva a abordagem dos testes que serão realizados:
 4. Registro de defeitos encontrados.
 5. Análise de resultados.
 
-### Ambiente de Teste:
-
-| Ambiente               | Descrição                                     |
-|------------------------|-----------------------------------------------|
-| Ex: Desenvolvimento    | Versão com novas funcionalidades              |
-| Ex: Homologação        | Ambiente próximo ao ambiente de produção      |
-
 ---
 
 ## 7. 📆 Cronograma
@@ -121,10 +114,10 @@ Organize o tempo das etapas do teste.
 
 | Atividade                  | Data de Início | Data de Término |
 |---------------------------|----------------|-----------------|
-| Planejamento do Teste     |                |                 |
-| Preparação do Ambiente    |                |                 |
-| Execução dos Testes       |                |                 |
-| Documentação dos Resultados|               |                 |
+| Planejamento do Teste     |  18 de Setembro de 2030              | 30 de Setembro de 2030                |
+| Preparação do Ambiente    | 1 de Outubro de 2030               | 3 de Outubro de 2030                |
+| Execução dos Testes       | 4 de Outubro de 2030                | 21 de Outrobro de 2030                 |
+| Documentação dos Resultados |22 de Outubro de 2030              | 25  de Outrobor de 2030              |
 
 ---
 
