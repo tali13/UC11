@@ -47,7 +47,7 @@ Especifique os critérios para considerar o teste como **bem-sucedido**:
 
 ---
 
-## 4. 🧪 Estratégia de Teste
+## 4. 📌 Estratégia de Teste
 
 Descreva a abordagem dos testes que serão realizados:
 
@@ -65,7 +65,7 @@ Descreva a abordagem dos testes que serão realizados:
 
 ---
 
-## 5. 🧰 Recursos Necessários
+## 5. 💡 Recursos Necessários
 
 ### Equipamentos:
 
@@ -93,7 +93,7 @@ Descreva a abordagem dos testes que serão realizados:
 
 ---
 
-## 6. 🛠️ Plano de Execução
+## 6. 💂 Plano de Execução
 
 - Execução Manual: Os testes serão executados manualmente nos dispositivos móveis e desktop, verificando a interação do usuário com a interface e o comportamento das funcionalidades.
 - Ambiente de Teste: O ambiente de teste será a versão de desenvolvimento do aplicativo, instalada nos dispositivos móveis Android e iOS e desktop.
