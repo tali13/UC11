@@ -1,4 +1,4 @@
-# 📃 PLANO DE TESTE - Administrador Loja
+# 📘✒️ PLANO DE TESTE - Administrador Loja
 
 ---
 
