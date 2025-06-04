@@ -70,8 +70,110 @@ Usuário teve a entrada negada
 - [ ] Reprovado
 
 ---
-
 ## 🧪 ID: 003
+
+### ✅ Caso de teste cadastro  do usuario:
+
+
+### 🎯 Descrição:
+Testar se o cadastro como adiministrador aceita a entrada de usuário caso utilize as informações corretas
+
+### 🧰 Pré-requisitos:
+- Usuário deve estar na tela de cadastro
+- O banco de dados da loja deve está funcionando corretamente
+
+### 📝 Procedimentos:
+1. Acessar a tela de cadastro
+2. Preencher os campos obrigatórios com dados validos
+3. Clicar no botão "registrar"
+
+### 🧾 Dados de Entrada:
+| Campo            | Valor de Teste        |
+|------------------|------------------------|
+| Nome             | Bruno Alves         |
+| Email            | BrunoAlves@gmail.com         |
+| Senha            | SkateMaster               |
+| Confirmar Senha  | SkateMaster                |
+
+### 💡 Resultado Esperado:
+O usuario deve ser redirecionado para a tela principal
+
+### 📌 Resultado Obtido:
+Usuário teve acesso ao painel pricipal
+### ✅ Status do Teste:
+- [x] Aprovado
+- [ ] Reprovado
+
+---
+## 🧪 ID: 004
+
+### ✅ Caso de teste cadastro errado  do usuario:
+
+
+### 🎯 Descrição:
+Testar se o cadastro como adiministrador rejeita a entrada de usuário caso utilize uma senha diferente na confirmação da senha
+
+### 🧰 Pré-requisitos:
+- Usuário deve estar na tela de cadastro
+- O banco de dados da loja deve está funcionando corretamente
+
+### 📝 Procedimentos:
+1. Acessar a tela de cadastro
+2. Preencher os campos obrigatórios com dados validos porem o campo de confirmar senha incorretanente
+3. Clicar no botão "registrar"
+
+### 🧾 Dados de Entrada:
+| Campo            | Valor de Teste        |
+|------------------|------------------------|
+| Nome             | Bruno Alves         |
+| Email            | BrunoAlves@gmail.com         |
+| Senha            | SkateMaster               |
+| Confirmar Senha  | skatemister                |
+
+### 💡 Resultado Esperado:
+O usuario deve ser receber a mensagem "Senha diferente da fornecida anteriormente"
+
+### 📌 Resultado Obtido:
+Usuário teve o acesso rejeitado
+### ✅ Status do Teste:
+- [x] Aprovado
+- [ ] Reprovado
+
+---
+## 🧪 ID: 005
+
+### ✅ Caso de teste excluir usuario cadastrado :
+
+
+### 🎯 Descrição:
+Testar se a opção de excluir usuario está funcionando corretamente
+
+### 🧰 Pré-requisitos:
+- Usuário deve estar na tela de configurações
+- O banco de dados da loja deve está funcionando corretamente
+
+### 📝 Procedimentos:
+1. Acessar a tela de configurações
+2. Preencher os campos obrigatórios com dados da conta
+3. Clicar no botão "excluir conta " e confirmar
+
+### 🧾 Dados de Entrada:
+| Campo            | Valor de Teste        |
+|------------------|------------------------|
+| Senha            | SkateMaster               |
+
+### 💡 Resultado Esperado:
+O usuario deve ser receber a mensagem "Sua conta foi excluida"
+
+### 📌 Resultado Obtido:
+Usuário teve sucesso ao excluir sua conta administrativa
+### ✅ Status do Teste:
+- [x] Aprovado
+- [ ] Reprovado
+
+---
+
+## 🧪 ID: 010
 
 ### ✅ Caso de teste Listagem de produtos na loja:
 
@@ -100,7 +202,7 @@ O programa exibiu corretamente os produtos do estoque do setor desejado
 - [ ] Reprovado
 
 ---
-## 🧪 ID: 004
+## 🧪 ID: 011
 
 ### ✅ Caso de teste Fluxo de entradas de produtos:
 
@@ -133,7 +235,7 @@ O programa gerou a informação do fluxo da area selecionada
 
 ---
 
-## 🧪 ID: 005
+## 🧪 ID: 012
 
 ### ✅ Caso de teste  Exibição dos produtos mais vendidos :
 
