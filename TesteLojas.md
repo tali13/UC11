@@ -42,6 +42,7 @@ Especifique os critérios para considerar o teste como **bem-sucedido**:
 
 | Funcionalidade           | Critério de sucesso                                 |
 |--------------------------|-----------------------------------------------------|
+| Criação de usuario administrador     | O usuario poderá controlar todos os elementos da loja através do usuario administrador     |
 | Listagem de produtos     | Esta exibindo corretamente a listagem de produtos do setor     |
 |  Visualização de fluxo de entrada e saida de produtos        |Apresenta o devido lugar dos produtos          |
 | Botões eficientes      | Reliza sua tarefa definida corretamente                           |
