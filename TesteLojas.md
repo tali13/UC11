@@ -16,6 +16,9 @@ Liste aqui todas as funcionalidades que serão testadas:
 | Funcionalidade               | Descrição                                        |
 |-----------------------------|--------------------------------------------------|
 | Criação de usuario administrador        |Criação de um usuario que poderá administrar a loja|
+| Exclusão de usuario administrador        |excluir o usuario do aplicativo|
+| Atualizar usuário administrador        |Atualiza as informações do administrador da loja|
+| Logar administrador       |Entra na conta cadastrada do administrador|
 | Listagem de produtos        | Usuário poderá visualizar os produtos disponiveis e indisponiveis na loja             |
 | Visualização de fluxo de entrada e saida de produtos           | Usuário poderá visualizar se os produtos estão em seus devidos locais        |
 | Exibição dos produtos mais vendidos        | Usuário poderá visualizar uma lista com os produtos que melhor performaram em vendas             |
@@ -40,9 +43,13 @@ Especifique os critérios para considerar o teste como **bem-sucedido**:
 | Funcionalidade           | Critério de sucesso                                 |
 |--------------------------|-----------------------------------------------------|
 | Criação de usuario administrador     | O usuario poderá controlar todos os elementos da loja através do usuario administrador     |
+| Exclusão de usuario administrador        |O usuário poderá excluir caso queira sua conta de administrador|
+| Atualizar usuário administrador        |O usuário poderá atualizar caso queira sua conta de administrador|
+| Logar administrador       |O usuário poderá entrar em sua conta de administrador|
 | Listagem de produtos     | Esta exibindo corretamente a listagem de produtos do setor     |
 |  Visualização de fluxo de entrada e saida de produtos        |Apresenta o devido lugar dos produtos          |
 | Exibição dos produtos mais vendidos      | Esta exibindo corretamente a listagem de produtos com maior desempenho de vendas                          |
+
 
 
 ---
