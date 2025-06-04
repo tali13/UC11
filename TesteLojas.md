@@ -118,10 +118,10 @@ Organize o tempo das etapas do teste.
 
 | Atividade                  | Data de Início | Data de Término |
 |---------------------------|----------------|-----------------|
-| Planejamento do Teste     |  18 de Setembro de 2030              | 30 de Setembro de 2030                |
-| Preparação do Ambiente    | 1 de Outubro de 2030               | 3 de Outubro de 2030                |
-| Execução dos Testes       | 4 de Outubro de 2030                | 21 de Outubro de 2030                 |
-| Documentação dos Resultados |22 de Outubro de 2030              | 25  de Outubro de 2030              |
+| Planejamento do Teste     |  18 de Setembro de 2030              | 30 de Setembro de 2030 |
+| Preparação do Ambiente    | 1 de Outubro de 2030               | 3 de Outubro de 2030|
+| Execução dos Testes       | 4 de Outubro de 2030                | 21 de Outubro de 2030|
+| Documentação dos Resultados |22 de Outubro de 2030              | 25  de Outubro de 2030|
 
 ---
 
@@ -133,7 +133,6 @@ Liste possíveis problemas que podem afetar os testes, com planos de ação.
 |----------------------------------------|-----------------------------------|---------------------------------------------|
 |Incompatibilidade com iOS antigo   | Aplicativo não abre em alguns aparelhos | Testar em diferentes versões do iOS      |
 |Incompatibilidade com Android antigo   | Aplicativo não abre em alguns aparelhos | Testar em diferentes versões do Adroid      |
-|Incompatibilidade com sistema operacional   | Aplicativo não corresponde ao sistema operacional | Testar em diferentes tipos de sistema operacionais     |
 |Falta de dispositivos de teste     | Atraso nos testes manuais         | Uso de emuladores                           |
 |Mal funcionamento de servidor     | Atraso na entrega dos teste         | Uso de servidores locais                          |
 
