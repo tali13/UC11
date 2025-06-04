@@ -26,8 +26,10 @@ Liste funcionalidades que estão fora do escopo deste plano de teste:
 
 | Funcionalidade fora do escopo  | Justificativa                            |
 |-------------------------------|-------------------------------------------|
-| Ex: Segurança                  | Será avaliada em uma fase futura          |
-| Ex: Teste de carga             | Fora do escopo por falta de ferramentas   |
+| Estética do aplicativop                  | Não será testado a estética geral do aplicativo          |
+| Segurança            | Não será testada a segurança pois ainda está em fase de desenvolvimento   |
+| Desempenho                  | Será testado em uma futura fase do desenvolvimento         |
+
 
 ---
 
