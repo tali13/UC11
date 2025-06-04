@@ -53,13 +53,13 @@ Descreva a abordagem dos testes que serão realizados:
 
 ### Tipos de Testes Utilizados:
 
-- [ ] Testes Funcionais
+- [x] Testes Funcionais
 - [ ] Testes de Interface (UI)
-- [ ] Testes de Usabilidade
+- [x] Testes de Usabilidade
 
 ### Método de Execução:
 
-- [ ] Manual
+- [x] Manual
 - [ ] Automatizado
 - [ ] Híbrido
 
