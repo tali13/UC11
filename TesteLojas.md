@@ -95,7 +95,8 @@ Descreva a abordagem dos testes que serão realizados:
 
 ## 6. 🛠️ Plano de Execução
 
-Descreva como os testes serão realizados na prática.
+- Execução Manual: Os testes serão executados manualmente nos dispositivos móveis e desktop, verificando a interação do usuário com a interface e o comportamento das funcionalidades.
+- Ambiente de Teste: O ambiente de teste será a versão de desenvolvimento do aplicativo, instalada nos dispositivos móveis Android e iOS e desktop.
 
 ### Etapas de Execução:
 
