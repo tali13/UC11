@@ -7,7 +7,7 @@
 ### O objetivo deste plano de teste é garantir que as funcionalidades do aplicativo Administrador Loja funcione corretamente, as funções testadas serão : Entrada e saída de produtos, verificação de local exato de produtos, listagem de produtos disponíveis, número de vendas, lista de produtos mais vendidos. Os teste devem visar a eficiência e a precisão das funcionalidades para com o usuario 
 ---
 
-## 2. 📦 Escopo dos Testes
+## 2. :octocat: Escopo dos Testes
 
 ### ✔️ O que será testado
 
