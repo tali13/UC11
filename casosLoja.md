@@ -133,13 +133,13 @@ O programa gerou a informação do fluxo da area selecionada
 
 ---
 
-## 🧪 ID: 005a
+## 🧪 ID: 005
 
-### ✅ Caso de teste  Botões :
+### ✅ Caso de teste  Exibição dos produtos mais vendidos :
 
 
 ### 🎯 Descrição:
-Verificar o funcionamento dos botões.
+Verificar se o programa exibi os produtos que melhor performaram nas vendas.
 
 ### 🧰 Pré-requisitos:
 
@@ -148,17 +148,16 @@ Verificar o funcionamento dos botões.
 
 ### 📝 Procedimentos (Passos para execução do teste):
 1. Acessar a tela de administração
-2. Selecionar a opção de fluxo de estoque
-3. Selecionar a opção do produto desejado
-4. Verificar se o produto está no setor correto
+2. Selecionar o setor desejado
+3. Selecionar "produtos mais vendidos"
 
 
 
 ### 💡 Resultado Esperado:
-O programa mostrou os produtos do estoque do setor conforme o esperado.
+O programa deve exibir uma lista com os produtos mais vendidos do setor.
 
 ### 📌 Resultado Obtido:
-O programa gerou a informação do fluxo da area selecionada
+O programa gerou uma lista com os produtos que mais venderam no setor selecionado.
 
 ### ✅ Status do Teste:
 - [x] Aprovado
