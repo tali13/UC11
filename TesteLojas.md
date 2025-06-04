@@ -116,8 +116,8 @@ Organize o tempo das etapas do teste.
 |---------------------------|----------------|-----------------|
 | Planejamento do Teste     |  18 de Setembro de 2030              | 30 de Setembro de 2030                |
 | Preparação do Ambiente    | 1 de Outubro de 2030               | 3 de Outubro de 2030                |
-| Execução dos Testes       | 4 de Outubro de 2030                | 21 de Outrobro de 2030                 |
-| Documentação dos Resultados |22 de Outubro de 2030              | 25  de Outrobor de 2030              |
+| Execução dos Testes       | 4 de Outubro de 2030                | 21 de Outubro de 2030                 |
+| Documentação dos Resultados |22 de Outubro de 2030              | 25  de Outubro de 2030              |
 
 ---
 
