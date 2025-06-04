@@ -70,3 +70,33 @@ Usuário teve a entrada negada
 - [ ] Reprovado
 
 ---
+
+## 🧪 ID: 003
+
+### ✅ Caso de teste Listagem de produtos na loja:
+
+
+### 🎯 Descrição:
+Verificar se o aplicativo exibe os produtos que estão disponiveis na loja.
+
+### 🧰 Pré-requisitos:
+- Usuário deve estar na tela de administração
+- O banco de dados da loja deve está funcionando corretamente
+
+### 📝 Procedimentos (Passos para execução do teste):
+1. Acessar a tela de administração
+2. Escolher o setor de produtos
+3. Clicar no botão "Listar"
+4. Selecionar o estoque disponivel
+
+
+### 💡 Resultado Esperado:
+O programa deve exibir os produtos de cada estoque do setor selecionado.
+
+### 📌 Resultado Obtido:
+O programa exibiu corretamente os produtos do estoque do setor desejado
+### ✅ Status do Teste:
+- [x] Aprovado
+- [ ] Reprovado
+
+---
