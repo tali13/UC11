@@ -1,4 +1,4 @@
-# 📋 PLANO DE TESTE - [NOME DO SISTEMA OU APLICATIVO]
+# 📋 PLANO DE TESTE - [Administrador Loja]
 
 ---
 
