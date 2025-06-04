@@ -20,7 +20,6 @@ Liste aqui todas as funcionalidades que serão testadas:
 | Visualização de fluxo de entrada e saida de produtos           | Usuário poderá visualizar se os produtos estão em seus devidos locais        |
 |Vericação dos botões e sua eficiencia    | Verificar se cada botão estão funcionando corretamente e com sua devida eficiencia  |
 | Exibição dos produtos mais vendidos        | Usuário poderá visualizar uma lista com os produtos que melhor performaram em vendas             |
-| Criação de usuario administrador        | Usuário poderá visualizar uma lista com os produtos que melhor performaram em vendas             |
 
 ### ❌ O que **não** será testado
 
