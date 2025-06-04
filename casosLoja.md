@@ -172,6 +172,122 @@ Usuário teve sucesso ao excluir sua conta administrativa
 - [ ] Reprovado
 
 ---
+## 🧪 ID: 006
+
+### ✅ Caso de teste atualizar usuario cadastrado :
+
+
+### 🎯 Descrição:
+Testar se a opção de atualizar está funcionando corretamente.
+
+### 🧰 Pré-requisitos:
+- Usuário deve estar na tela de configurações
+- O banco de dados da loja deve está funcionando corretamente
+
+### 📝 Procedimentos:
+1. Acessar a tela de configurações
+2. Preencher os campos obrigatórios com dados da conta
+3. Clicar no botão "atualizar dados" e confirmar
+
+### 🧾 Dados de Entrada:
+| Campo            | Valor de Teste        |
+|------------------|------------------------|
+| Nome             | Bruno Alves         |
+| Email            | BrunoAlves@gmail.com         |
+| Senha            | SkateMaster               |
+| Novo nome  | Bruno Santos                |
+| Novo email  | BrunoSantos@gmail.com                |
+| NovaSenha            | SkatePro               |
+
+
+### 💡 Resultado Esperado:
+O usuario deve ser receber a mensagem "Sua conta foi atualizada"
+
+### 📌 Resultado Obtido:
+Usuário teve sucesso ao atualizar sua conta administrativa
+### ✅ Status do Teste:
+- [x] Aprovado
+- [ ] Reprovado
+
+---
+## 🧪 ID: 007
+
+### ✅ Caso de teste atualizar usuario cadastrado com senha incorreta :
+
+
+### 🎯 Descrição:
+Testar se a opção de atualizar está rejeitando caso o usuario informe-a incorretamente.
+
+### 🧰 Pré-requisitos:
+- Usuário deve estar na tela de configurações
+- O banco de dados da loja deve está funcionando corretamente
+
+### 📝 Procedimentos:
+1. Acessar a tela de configurações
+2. Preencher os campos obrigatórios com dados da conta incorretamente
+3. Clicar no botão "atualizar dados" e confirmar
+
+### 🧾 Dados de Entrada:
+| Campo            | Valor de Teste        |
+|------------------|------------------------|
+| Nome             | Bruno Alves         |
+| Email            | BrunoAlves@gmail.com         |
+| Senha            | skatemister               |
+| Novo nome  | Bruno Santos                |
+| Novo email  | BrunoSantos@gmail.com                |
+| NovaSenha            | SkatePro               |
+
+
+### 💡 Resultado Esperado:
+O usuario deve ser receber a mensagem "Senha incorreta, tente novamente"
+
+### 📌 Resultado Obtido:
+Usuário foi rejeitado ao tentar atualizar a senha incorreta
+### ✅ Status do Teste:
+- [x] Aprovado
+- [ ] Reprovado
+
+---
+
+## 🧪 ID: 008
+
+### ✅ Caso de teste atualizar usuario cadastrado com email incorreto :
+
+
+### 🎯 Descrição:
+Testar se a opção de atualizar está rejeitando caso o usuario informe-a incorretamente.
+
+### 🧰 Pré-requisitos:
+- Usuário deve estar na tela de configurações
+- O banco de dados da loja deve está funcionando corretamente
+
+### 📝 Procedimentos:
+1. Acessar a tela de configurações
+2. Preencher os campos obrigatórios com dados da conta incorretamente
+3. Clicar no botão "atualizar dados" e confirmar
+
+### 🧾 Dados de Entrada:
+| Campo            | Valor de Teste        |
+|------------------|------------------------|
+| Nome             | Bruno Alves         |
+| Email            | BrinoAlves@gmail.com         |
+| Senha            | SkateMaster               |
+| Novo nome  | Bruno Santos                |
+| Novo email  | BrunoSantos@gmail.com                |
+| NovaSenha            | SkatePro               |
+
+
+### 💡 Resultado Esperado:
+O usuario deve ser receber a mensagem "email incorreto, tente novamente"
+
+### 📌 Resultado Obtido:
+Usuário foi rejeitado ao tentar atualizar a email incorreto
+### ✅ Status do Teste:
+- [x] Aprovado
+- [ ] Reprovado
+
+---
+
 
 ## 🧪 ID: 010
 
