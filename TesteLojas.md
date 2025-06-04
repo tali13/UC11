@@ -127,7 +127,10 @@ Liste possíveis problemas que podem afetar os testes, com planos de ação.
 
 | Risco Identificado                      | Possível Impacto                   | Estratégia de Mitigação                     |
 |----------------------------------------|-----------------------------------|---------------------------------------------|
-| Ex: Incompatibilidade com iOS antigo   | Aplicativo não abre em alguns aparelhos | Testar em diferentes versões do iOS      |
-| Ex: Falta de dispositivos de teste     | Atraso nos testes manuais         | Uso de emuladores                           |
+|Incompatibilidade com iOS antigo   | Aplicativo não abre em alguns aparelhos | Testar em diferentes versões do iOS      |
+|Incompatibilidade com Android antigo   | Aplicativo não abre em alguns aparelhos | Testar em diferentes versões do Adroid      |
+|Incompatibilidade com sistema operacional   | Aplicativo não corresponde ao sistema operacional | Testar em diferentes tipos de sistema operacionais     |
+|Falta de dispositivos de teste     | Atraso nos testes manuais         | Uso de emuladores                           |
+|Mal funcionamento de servidor     | Atraso na entrega dos teste         | Uso de servidores locais                          |
 
 ---
