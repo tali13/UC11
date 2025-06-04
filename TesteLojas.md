@@ -39,9 +39,11 @@ Especifique os critérios para considerar o teste como **bem-sucedido**:
 
 | Funcionalidade           | Critério de sucesso                                 |
 |--------------------------|-----------------------------------------------------|
-| Ex: Adicionar tarefa     | Tarefa aparece corretamente na lista após salvar    |
-| Ex: Editar tarefa        | Alterações refletem imediatamente na lista          |
-| Ex: Excluir tarefa       | Tarefa removida sem erros                           |
+| Listagem de produtos     | Esta exibindo corretamente a listagem de produtos do setor     |
+|  Visualização de fluxo de entrada e saida de produtos        |Apresenta o devido lugar dos produtos          |
+| Botões eficientes      | Reliza sua tarefa definida corretamente                           |
+| Exibição dos produtos mais vendidos      | Esta exibindo corretamente a listagem de produtos com maior desempenho de vendas                          |
+
 
 ---
 
