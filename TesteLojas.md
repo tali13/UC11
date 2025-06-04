@@ -71,9 +71,9 @@ Descreva a abordagem dos testes que serão realizados:
 
 | Equipamento        | Especificações mínimas                     |
 |--------------------|--------------------------------------------|
-| Ex: Celular Android| Versão 12 ou superior                      |
-| Ex: Celular IOS    | Versão 14 ou superior                      |
-| Ex: Computador     | Navegador Chrome/Opera atualizado       |
+| Celular Android| Versão 12 ou superior                      |
+| Celular IOS    | Versão 14 ou superior                      |
+| Computador     | Navegador Chrome/Opera atualizado       |
 
 
 ### Ferramentas:
