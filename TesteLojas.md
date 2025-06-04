@@ -4,7 +4,7 @@
 
 ## 1. 🎯 Objetivo dos Testes
 
-### O objetivo deste plano de teste é garantir que as funcionalidades do aplicativo Administrador Loja funcione corretamente, as funções testadas serão : Entrada e saída de produtos, verificação de local exato de produtos, listagem de produtos disponíveis, número de vendas, lista de produtos mais vendidos. Os teste devem visar a eficiência e a precisão das funcionalidades para com o usuario 
+### O objetivo deste plano de teste é garantir que as funcionalidades do aplicativo Administrador Loja funcione corretamente, as funções testadas serão : Entrada e saída de produtos, verificação de local exato de produtos, listagem de produtos disponíveis, número de vendas, lista de produtos mais vendidos,criação de usuario administrativo. Os teste devem visar a eficiência e a precisão das funcionalidades para com o usuario 
 ---
 
 ## 2. :octocat: Escopo dos Testes
@@ -15,10 +15,13 @@ Liste aqui todas as funcionalidades que serão testadas:
 
 | Funcionalidade               | Descrição                                        |
 |-----------------------------|--------------------------------------------------|
+| Criação de usuario administrador        |Criação de um usuario que poderá administrar a loja|
 | Listagem de produtos        | Usuário poderá visualizar os produtos disponiveis e indisponiveis na loja             |
 | Visualização de fluxo de entrada e saida de produtos           | Usuário poderá visualizar se os produtos estão em seus devidos locais        |
+| Criação de usuario administrador        |Criação de um usuario que poderá administrar a loja|
 |Vericação dos botões e sua eficiencia    | Verificar se cada botão estão funcionando corretamente e com sua devida eficiencia  |
 | Exibição dos produtos mais vendidos        | Usuário poderá visualizar uma lista com os produtos que melhor performaram em vendas             |
+| Criação de usuario administrador        | Usuário poderá visualizar uma lista com os produtos que melhor performaram em vendas             |
 
 ### ❌ O que **não** será testado
 
