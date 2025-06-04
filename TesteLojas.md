@@ -15,9 +15,10 @@ Liste aqui todas as funcionalidades que serão testadas:
 
 | Funcionalidade               | Descrição                                        |
 |-----------------------------|--------------------------------------------------|
-| Listagem de produtos        | Usuário poderá criar uma nova tarefa             |
-| Visualização de fluxo de entrada e saida de produtps           | Usuário poderá alterar o título da tarefa        |
-| Ex: Interface de usuário    | Verificar a usabilidade e responsividade da UI   |
+| Listagem de produtos        | Usuário poderá visualizar os produtos disponiveis e indisponiveis na loja             |
+| Visualização de fluxo de entrada e saida de produtos           | Usuário poderá visualizar se os produtos estão em seus devidos locais        |
+|Vericação dos botões e sua eficiencia    | Verificar a usabilidade e responsividade da UI   |
+| Exibição dos produtos mais vendidos        | Usuário poderá criar uma nova tarefa             |
 
 ### ❌ O que **não** será testado
 
