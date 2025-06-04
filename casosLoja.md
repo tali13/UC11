@@ -10,7 +10,7 @@ Testar se o login como adiministrador está funcionando corretamente com as info
 - Usuário deve estar na tela de login
 - O banco de dados da loja deve está funcionando corretamente
 
-### 📝 Procedimentos (Passos para execução do teste):
+### 📝 Procedimentos:
 1. Acessar a tela de login
 2. Preencher os campos obrigatórios com dados válidos
 3. Clicar no botão "Entrar"
@@ -47,7 +47,7 @@ Testar se o login como adiministrador rejeita a entrada de usuário caso utilize
 - Usuário deve estar na tela de login
 - O banco de dados da loja deve está funcionando corretamente
 
-### 📝 Procedimentos (Passos para execução do teste):
+### 📝 Procedimentos:
 1. Acessar a tela de login
 2. Preencher os campos obrigatórios com dados invalidos
 3. Clicar no botão "Entrar"
@@ -83,7 +83,7 @@ Verificar se o aplicativo exibe os produtos que estão disponiveis na loja.
 - Usuário deve estar na tela de administração
 - O banco de dados da loja deve está funcionando corretamente
 
-### 📝 Procedimentos (Passos para execução do teste):
+### 📝 Procedimentos:
 1. Acessar a tela de administração
 2. Escolher o setor de produtos
 3. Clicar no botão "Listar"
@@ -146,7 +146,7 @@ Verificar se o programa exibi os produtos que melhor performaram nas vendas.
 - Usuário deve estar na tela de administração
 - O banco de dados da loja deve está funcionando corretamente
 
-### 📝 Procedimentos (Passos para execução do teste):
+### 📝 Procedimentos:
 1. Acessar a tela de administração
 2. Selecionar o setor desejado
 3. Selecionar "produtos mais vendidos"
