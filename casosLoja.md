@@ -125,7 +125,7 @@ Verificar se o produto foi inserido no estoque corretamente.
 O programa deve alertar caso um produto esteja fora do fluxo do estoque correto
 
 ### 📌 Resultado Obtido:
-O programa exibiu corretamente os produtos do estoque do setor desejado
+O programa mostrou os produtos do estoque do setor conforme o esperado.
 ### ✅ Status do Teste:
 - [x] Aprovado
 - [ ] Reprovado
