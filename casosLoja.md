@@ -132,3 +132,37 @@ O programa gerou a informação do fluxo da area selecionada
 - [ ] Reprovado
 
 ---
+
+## 🧪 ID: 005a
+
+### ✅ Caso de teste  Botões :
+
+
+### 🎯 Descrição:
+Verificar o funcionamento dos botões.
+
+### 🧰 Pré-requisitos:
+
+- Usuário deve estar na tela de administração
+- O banco de dados da loja deve está funcionando corretamente
+
+### 📝 Procedimentos (Passos para execução do teste):
+1. Acessar a tela de administração
+2. Selecionar a opção de fluxo de estoque
+3. Selecionar a opção do produto desejado
+4. Verificar se o produto está no setor correto
+
+
+
+### 💡 Resultado Esperado:
+O programa mostrou os produtos do estoque do setor conforme o esperado.
+
+### 📌 Resultado Obtido:
+O programa gerou a informação do fluxo da area selecionada
+
+### ✅ Status do Teste:
+- [x] Aprovado
+- [ ] Reprovado
+
+---
+
