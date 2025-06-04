@@ -100,3 +100,34 @@ O programa exibiu corretamente os produtos do estoque do setor desejado
 - [ ] Reprovado
 
 ---
+## 🧪 ID: 004
+
+### ✅ Caso de teste Fluxo de entradas de produtos:
+
+
+### 🎯 Descrição:
+Verificar se o produto foi inserido no estoque corretamente.
+
+### 🧰 Pré-requisitos:
+
+- Usuário deve estar na tela de administração
+- O banco de dados da loja deve está funcionando corretamente
+
+### 📝 Procedimentos (Passos para execução do teste):
+1. Acessar a tela de administração
+2. Selecionar a opção de fluxo de estoque
+3. Selecionar a opção do produto desejado
+4. Verificar se o produto está no setor correto
+
+
+
+### 💡 Resultado Esperado:
+O programa deve alertar caso um produto esteja fora do fluxo do estoque correto
+
+### 📌 Resultado Obtido:
+O programa exibiu corretamente os produtos do estoque do setor desejado
+### ✅ Status do Teste:
+- [x] Aprovado
+- [ ] Reprovado
+
+---
