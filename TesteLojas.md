@@ -71,22 +71,24 @@ Descreva a abordagem dos testes que serão realizados:
 
 | Equipamento        | Especificações mínimas                     |
 |--------------------|--------------------------------------------|
-| Ex: Celular Android| Versão 10 ou superior                      |
-| Ex: Computador     | Navegador Chrome/Firefox atualizado       |
+| Ex: Celular Android| Versão 12 ou superior                      |
+| Ex: Celular IOS    | Versão 14 ou superior                      |
+| Ex: Computador     | Navegador Chrome/Opera atualizado       |
+
 
 ### Ferramentas:
 
 | Ferramenta             | Finalidade                             |
 |------------------------|----------------------------------------|
-| Ex: JUnit              | Testes automatizados                   |
-| Ex: TestRail           | Planejamento e execução dos testes     |
+| NetBeans              | Testes automatizados                   |
+| Jira           | Para rastreamento de bugs     |
 
 ### Equipe Envolvida:
 
 | Função                 | Quantidade | Nome(s) (opcional)       |
 |------------------------|------------|--------------------------|
-| Testador               |            |                          |
-| Desenvolvedor          |            |                          |
+| Testador               |      3      |   Claudia array, Rogéria da silva, Irene da cunha                     |
+| Desenvolvedor          |      2      |   Jake dobberman, Charlie Oliveira                       |
 
 
 ---
