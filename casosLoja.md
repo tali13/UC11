@@ -37,11 +37,11 @@ Usuário entrou na tela adiministrariva com sucesso e redirecionado corretamente
 
 ## 🧪 ID: 002
 
-### ✅ Caso de teste Login usuario administrador:
+### ✅ Caso de teste Login incorreto do usuario:
 
 
 ### 🎯 Descrição:
-Testar se o login como adiministrador está funcionando corretamente com as informações corretas da loja desejada
+Testar se o login como adiministrador rejeita a entrada de usuário caso utilize um senha errada
 
 ### 🧰 Pré-requisitos:
 - Usuário deve estar na tela de login
@@ -49,23 +49,22 @@ Testar se o login como adiministrador está funcionando corretamente com as info
 
 ### 📝 Procedimentos (Passos para execução do teste):
 1. Acessar a tela de login
-2. Preencher os campos obrigatórios com dados válidos
+2. Preencher os campos obrigatórios com dados invalidos
 3. Clicar no botão "Entrar"
 
 ### 🧾 Dados de Entrada:
 | Campo            | Valor de Teste        |
 |------------------|------------------------|
-| Nome             | JoelmaDaSilva          |
-| Email            | Joelma@outlook.com         |
-| Senha            | J01041994               |
-| Confirmar Senha  | J01041994                |
+| Nome             | Bruno Alves         |
+| Email            | BrunoAlves@gmail.com         |
+| Senha            | SkateMaster               |
+| Confirmar Senha  | skat3mister                |
 
 ### 💡 Resultado Esperado:
-O usuario deve poder entrar poder acessar sua conta administrativa e entrar no menu da loja seguido com a messagem "Bem vindo [nome do dono]"
+O usuario deve ser recebido com a mensagem "Senha incorreta, porfavor digite-a novamente"
 
 ### 📌 Resultado Obtido:
-Usuário entrou na tela adiministrariva com sucesso e redirecionado corretamente.
-
+Usuário teve a entrada negada
 ### ✅ Status do Teste:
 - [x] Aprovado
 - [ ] Reprovado
