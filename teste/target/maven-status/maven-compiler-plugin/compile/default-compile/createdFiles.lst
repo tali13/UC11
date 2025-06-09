@@ -1,0 +1,4 @@
+com\mycompany\teste\database\DatabaseConnection.class
+com\mycompany\teste\Teste.class
+com\mycompany\teste\model\Usuario.class
+com\mycompany\teste\dao\UsuarioDAO.class
